@@ -1,0 +1,204 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ZombieDebugAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {579, 471}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 491}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ZombieDebug */ = {
+		activeExec = 0;
+		executables = (
+			DD11A6C410FF96CC00F69375 /* ZombieDebug */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ZombieDebugViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {562, 427}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 386}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ZombieDebugViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {562, 800}}";
+			sepNavSelRange = "{513, 0}";
+			sepNavVisRange = "{144, 583}";
+			sepNavWindowFrame = "{{212, 469}, {1109, 709}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DD11A6C410FF96CC00F69375 /* ZombieDebug */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ZombieDebug */;
+		breakpoints = (
+		);
+		codeSenseManager = DD11A6E210FF96E400F69375 /* Code sense */;
+		executables = (
+			DD11A6C410FF96CC00F69375 /* ZombieDebug */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					272,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					369,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285191965;
+			PBXWorkspaceStateSaveDate = 285191965;
+		};
+		perUserProjectItems = {
+			DD11A74F10FF9C0000F69375 /* PBXTextBookmark */ = DD11A74F10FF9C0000F69375 /* PBXTextBookmark */;
+			DD11A78410FFAA7000F69375 /* PBXTextBookmark */ = DD11A78410FFAA7000F69375 /* PBXTextBookmark */;
+			DD11A79310FFACD400F69375 /* PBXTextBookmark */ = DD11A79310FFACD400F69375 /* PBXTextBookmark */;
+			DD11A86610FFBEA600F69375 /* PBXTextBookmark */ = DD11A86610FFBEA600F69375 /* PBXTextBookmark */;
+			DD11A91F10FFCCE400F69375 /* PBXTextBookmark */ = DD11A91F10FFCCE400F69375 /* PBXTextBookmark */;
+			DD11A92110FFCE4600F69375 /* PBXTextBookmark */ = DD11A92110FFCE4600F69375 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DD11A6E110FF96E400F69375 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DD11A6C410FF96CC00F69375 /* ZombieDebug */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ZombieDebug;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DD11A6E110FF96E400F69375 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DD11A6E210FF96E400F69375 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DD11A74F10FF9C0000F69375 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD11A75010FF9C0000F69375 /* stdlib.h */;
+		name = "stdlib.h: 223";
+		rLen = 20;
+		rLoc = 7419;
+		rType = 0;
+		vrLen = 1573;
+		vrLoc = 6738;
+	};
+	DD11A75010FF9C0000F69375 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	DD11A78410FFAA7000F69375 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ZombieDebugAppDelegate.h */;
+		name = "ZombieDebugAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	DD11A79310FFACD400F69375 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZombieDebugViewController.m */;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	DD11A86610FFBEA600F69375 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ZombieDebugViewController.h */;
+		name = "ZombieDebugViewController.h: 13";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 0;
+	};
+	DD11A91F10FFCCE400F69375 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZombieDebugViewController.m */;
+		name = "ZombieDebugViewController.m: 25";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 581;
+		vrLoc = 145;
+	};
+	DD11A92110FFCE4600F69375 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZombieDebugViewController.m */;
+		name = "ZombieDebugViewController.m: 25";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 144;
+	};
+}

@@ -1,0 +1,173 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TestLoopPerformanceAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 554}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TestLoopPerformanceAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1377}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TestLoopPerformance */ = {
+		activeExec = 0;
+		executables = (
+			DED6AC01134B59AF002CC642 /* TestLoopPerformance */,
+		);
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4238, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4289, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4339, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5035}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {775, 2626}}";
+			sepNavSelRange = "{1000, 0}";
+			sepNavVisRange = "{786, 538}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DED6AC01134B59AF002CC642 /* TestLoopPerformance */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TestLoopPerformance */;
+		codeSenseManager = DED6AC13134B59B1002CC642 /* Code sense */;
+		executables = (
+			DED6AC01134B59AF002CC642 /* TestLoopPerformance */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326249045;
+			PBXWorkspaceStateSaveDate = 326249045;
+		};
+		perUserProjectItems = {
+			DE18F762135C8C1C00C5628E /* PBXTextBookmark */ = DE18F762135C8C1C00C5628E /* PBXTextBookmark */;
+			DE7CFB4113722A5900F96DEC /* PBXTextBookmark */ = DE7CFB4113722A5900F96DEC /* PBXTextBookmark */;
+			DE7DD0C6136BA663000C78E1 /* PlistBookmark */ = DE7DD0C6136BA663000C78E1 /* PlistBookmark */;
+			DE7DD0C7136BA663000C78E1 /* PBXTextBookmark */ = DE7DD0C7136BA663000C78E1 /* PBXTextBookmark */;
+			DEA96DB2136FB29A00D75D63 /* PBXTextBookmark */ = DEA96DB2136FB29A00D75D63 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DED6AC12134B59B1002CC642 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DE18F762135C8C1C00C5628E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TestLoopPerformanceAppDelegate.h */;
+		name = "TestLoopPerformanceAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	DE7CFB4113722A5900F96DEC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 48";
+		rLen = 0;
+		rLoc = 1198;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 575;
+	};
+	DE7DD0C6136BA663000C78E1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TestLoopPerformance-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundlePackageType,
+		);
+		name = "/Users/vodkhang/iOS-App-Performance-Book/Chapter2/TestLoopPerformance/TestLoopPerformance-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	DE7DD0C7136BA663000C78E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TestLoopPerformanceAppDelegate.m */;
+		name = "TestLoopPerformanceAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1377;
+		vrLoc = 0;
+	};
+	DEA96DB2136FB29A00D75D63 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 48";
+		rLen = 0;
+		rLoc = 1198;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 609;
+	};
+	DED6AC01134B59AF002CC642 /* TestLoopPerformance */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TestLoopPerformance;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DED6AC12134B59B1002CC642 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DED6AC13134B59B1002CC642 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

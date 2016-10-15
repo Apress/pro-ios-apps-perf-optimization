@@ -1,0 +1,156 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ThreadSafety */ = {
+		activeExec = 0;
+		executables = (
+			DE7918C513822BB400016380 /* ThreadSafety */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ThreadSafetyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 553}}";
+			sepNavSelRange = "{281, 0}";
+			sepNavVisRange = "{0, 408}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ThreadSafetyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 845}}";
+			sepNavSelRange = "{273, 1157}";
+			sepNavVisRange = "{184, 1401}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DE7918C513822BB400016380 /* ThreadSafety */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ThreadSafety */;
+		codeSenseManager = DE7918D713822BB500016380 /* Code sense */;
+		executables = (
+			DE7918C513822BB400016380 /* ThreadSafety */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327499596;
+			PBXWorkspaceStateSaveDate = 327499596;
+		};
+		perUserProjectItems = {
+			DE79A701138518B900E50550 /* PBXTextBookmark */ = DE79A701138518B900E50550 /* PBXTextBookmark */;
+			DE79A76513853F6900E50550 /* PBXTextBookmark */ = DE79A76513853F6900E50550 /* PBXTextBookmark */;
+			DE79A7AF1385811B00E50550 /* PBXTextBookmark */ = DE79A7AF1385811B00E50550 /* PBXTextBookmark */;
+			DE79A7B01385811B00E50550 /* PBXTextBookmark */ = DE79A7B01385811B00E50550 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DE7918D613822BB500016380 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DE7918C513822BB400016380 /* ThreadSafety */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ThreadSafety;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	DE7918D613822BB500016380 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DE7918D713822BB500016380 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DE79A6D91385178700E50550 /* RequestNumberActivity.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = RequestNumberActivity.java;
+		path = /Users/vodkhang/Pigeon/Pigeon_AV7/src/com/pigeon_av7/RequestNumberActivity.java;
+		sourceTree = "<absolute>";
+	};
+	DE79A701138518B900E50550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DE79A6D91385178700E50550 /* RequestNumberActivity.java */;
+		name = "RequestNumberActivity.java: 118";
+		rLen = 0;
+		rLoc = 4245;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 3819;
+	};
+	DE79A76513853F6900E50550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ThreadSafetyViewController.m */;
+		name = "ThreadSafetyViewController.m: 28";
+		rLen = 0;
+		rLoc = 667;
+		rType = 0;
+		vrLen = 1350;
+		vrLoc = 144;
+	};
+	DE79A7AF1385811B00E50550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ThreadSafetyViewController.h */;
+		name = "ThreadSafetyViewController.h: 14";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 0;
+	};
+	DE79A7B01385811B00E50550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ThreadSafetyViewController.m */;
+		name = "ThreadSafetyViewController.m: 15";
+		rLen = 1157;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 1401;
+		vrLoc = 184;
+	};
+}
